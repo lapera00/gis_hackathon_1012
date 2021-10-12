@@ -28,4 +28,4 @@
 * 
 
 ##
-* 데이터 출처: https://www.gwangju.go.kr/economy/boardList.do?boardId=BD_0000001721&pageId=economy37
+* 데이터 출처: 광주광역시
