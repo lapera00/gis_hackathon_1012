@@ -1,5 +1,7 @@
 # 2021 광주인공지능사관학교 해커톤 2021.10.13
 
+https://github.com/solahyun/Hackathon_gis
+
 ## Makers
 * 이승진
 * 김준형
