@@ -1,12 +1,13 @@
 # 2021 광주인공지능사관학교 해커톤 2021.10.13
 
-https://github.com/solahyun/Hackathon_gis
+## https://github.com/solahyun/Hackathon_gis
+
 
 ## Makers
-* 이승진
-* 김준형
-* 류재원
-* 윤솔아
+* 이승진(팀장)
+* 김준형(팀원)
+* 류재원(팀원)
+* 윤솔아(팀원)
 
 ## 해커톤 주제
 * 지역사회 전반에 필요한 실용적인 인공지능 웹 서비스 제작 
@@ -27,7 +28,9 @@ https://github.com/solahyun/Hackathon_gis
 * 많은 데이터 필요
 
 ## 개선사항
-* 모델과 
+* 모델과 연동
 
 ##
+* 파이썬 AI모델은 AI_model_1012 폴더에 있습니다.
 * 데이터 출처: 광주광역시
+
